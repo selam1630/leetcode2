@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/selam1630/leetcode2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/selam1630/leetcode2/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/selam1630/leetcode2/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/selam1630/leetcode2/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/selam1630/leetcode2/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/selam1630/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/selam1630/leetcode2/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/selam1630/leetcode2/tree/master/1019-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/selam1630/leetcode2/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/selam1630/leetcode2/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
